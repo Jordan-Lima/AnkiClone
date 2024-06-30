@@ -7,7 +7,7 @@
 <p>Criar o programa em terminal com as seguintes funcionalidades</p>
 
 - [x] Visualizar o número de baralhos e cartas (29/06/24)
-- [ ] Aparecer uma lista com o nome de cada baralho (29/06/24)
+- [x] Aparecer uma lista com o nome de cada baralho (29/06/24)
 - [ ] A funcão criar baralho
 - [ ] A funcão criar carta
 - [ ] Criar a interface da janela
